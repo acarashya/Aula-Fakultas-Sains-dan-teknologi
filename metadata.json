@@ -1,0 +1,7 @@
+{
+  "name": "Aula FST – Sistem Reservasi Modern",
+  "description": "Sistem Informasi Reservasi Aula Fakultas Sains dan Teknologi dengan cek ketersediaan, booking multi-step, pelacakan status, dan panel admin.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

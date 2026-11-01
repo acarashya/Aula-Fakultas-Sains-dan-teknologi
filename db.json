@@ -1,0 +1,23 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "admin123"
+  },
+  "aula": {
+    "name": "Aula FST",
+    "capacity": 100,
+    "location": "Gedung utama Fakultas Sains dan Teknologi, lantai 1",
+    "facilities": [
+      "AC",
+      "Proyektor",
+      "Sound System",
+      "WiFi",
+      "Kursi 100",
+      "Podium",
+      "Whiteboard"
+    ],
+    "openHour": 7,
+    "closeHour": 17
+  },
+  "bookings": []
+}

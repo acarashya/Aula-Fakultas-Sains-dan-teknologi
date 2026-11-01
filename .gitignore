@@ -1,0 +1,4 @@
+node_modules/
+.env
+uploads/
+setup-db.js
